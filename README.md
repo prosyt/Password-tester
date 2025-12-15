@@ -5,7 +5,7 @@ The tool analyzes password complexity and provides a **theoretical estimate** of
 
 ## Quick Start
 
-### Web Version (recommended)
+### Web Version 
 
 No installation required.
 
@@ -35,26 +35,6 @@ cd password-tester
 ```
 
 **Install dependencies and run**
-
-```bash
-pip install --user rich
-python3 password_tester.py
-```
-
-## Web Version
-
-The web version is instant and requires no setup.
-
-1. Enable GitHub Pages via **Settings > Pages** in the repository
-2. Or open the `index.html` file directly in your browser
-
-**Privacy:** analysis is entirely local. Your password **is not sent or stored**.
-
-## Python Version
-
-For command-line usage.
-
-1. Install the dependency for terminal output:
 
 ```bash
 pip install rich
